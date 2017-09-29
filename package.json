@@ -1,0 +1,43 @@
+{
+  "name": "hooker",
+  "version": "0.0.1",
+  "description": "Programming hooks to call specific actions at specific points or stages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./bin/test"
+  },
+  "engines": ">=8.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whitebolt/hooker"
+  },
+  "keywords": [
+
+  ],
+  "author": {
+    "email": "hello@whitebolt.net",
+    "name": "Whitebolt"
+  },
+  "contributors": [
+    {
+      "email": "stephen@whitebolt.net",
+      "name": "Stephen Simpson"
+    },
+    {
+      "email": "kris@whitebolt.net",
+      "name": "Kristjan Allikas"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Whitebolt/hooker/issues"
+  },
+  "homepage": "https://github.com/Whitebolt/hooker#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "jsdoc-api": "^4.0.0",
+    "mocha": "^3.5.3"
+  }
+}
